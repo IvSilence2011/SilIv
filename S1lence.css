@@ -1,0 +1,195 @@
+.Favorite{
+  text-align: center;
+  vertical-align: top;
+  height: 100;
+  color: red;
+}
+body{
+  background-image: url("Gradient.jpg");
+  background-attachment: fixed;
+
+
+
+}
+
+.img1{
+  display: block;
+  margin: 0 auto;
+}
+.leftG{
+  width: 400px;
+  height: 800px;
+  background: black;
+  border-bottom: 30px
+  background-position: 400px 300px 200px 50px
+}
+.left1{
+   color: white;
+   height: 100;
+}
+.td1{
+  background-color: white;
+  border-color: red;
+
+}
+.tbl1{
+  background-position: top;
+}
+
+.YT1{
+
+  border-color: black;
+  color: red;
+}
+.info1{
+  text-align: center;
+  color: orange;
+}
+.img2{
+  width: 400px;
+  height: 300px;
+  background-position: center;
+}
+.egg{
+
+  background-image: url("black.jpg");
+  width: 400px;
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  text-align: center;
+  color:
+}
+.tbl3{
+  color: grey;
+  border:  30px;
+}
+.YT2{
+  color: green;
+background-color: red;
+}
+.YT3{
+  color: yellow;
+background-color: red;
+}
+.YT4{
+  color: blue;
+  background-color: red;
+
+}
+.YouTube{
+  color: white;
+  background-color: grey;
+  width: 400px;
+  padding-right: 800px;
+  padding-left: 800px;
+}
+.Ds1{
+  color: blue;
+  border-color: white;
+  background-color: grey;
+}
+.Ds2{
+  color: red;
+  background-color: grey;
+}
+.Ds3{
+  color: orange;
+  background-color: grey;
+}
+
+.Ds4{
+  color: white;
+  background-color: grey;
+
+}
+.left2{
+  color: blue;
+  height: 100;
+}
+.left3{
+  color: red;
+  height: 100;
+}
+.cs1{
+  color: yellow;
+  background-color: grey;
+
+}
+
+.cs2{
+  color: #1FAFEE;
+  background-color: grey;
+
+}
+
+.cs3{
+  color: red;
+  background-color: grey;
+
+}
+
+.cs4{
+  color: #1BC118 ;
+  background-color: grey;
+
+}
+.CS{
+  color: white;
+  background-color: blue;
+  width: 400px;
+  padding-right: 800px;
+  padding-left: 800px;
+  border-color: yellow;
+}
+.cS{
+  color: orange;
+}
+.Rx{
+  color: grey;
+  background-color: red;
+  text-align: center;
+}
+.Rb{
+  color: grey;
+  background-color: black;
+}
+.Rb1{
+  color: #229307;
+  background-color: black;
+}
+.Rb2{
+  color: orange;
+  background-color: black;
+}
+.Rb3{
+  color: brown;
+  background-color: black;
+}
+.RbT{
+  color: black;
+  background-color: brown;
+  width: 400px;
+  padding-right: 800px;
+  padding-left: 800px;
+
+}
+.Thanks1{
+  background-color: white;
+  color: white
+
+  width: 400px;
+  padding-right: 800px;
+  padding-left: 800px;
+}
+.Invo2{
+  color: 3AF7DA;
+  background-color: green;
+}
+.abz1{
+  background-color: black;
+  color: white;
+
+  background-position: center;
+
+}
